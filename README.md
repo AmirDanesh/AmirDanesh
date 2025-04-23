@@ -15,14 +15,14 @@ I'm a passionate **.NET Developer** based in **Tehran, Iran**, with a focus on b
 
 ### 🚀 Featured Projects
 
+- [Redocify](https://github.com/AmirDanesh/Redocify):
+  A simple package to generate beautiful API documentation (ReDoc UI) for ASP.NET Core APIs with OpenAPI support.
+
 - [otel-logging-showcase](https://github.com/AmirDanesh/otel-logging-showcase):
   Real-world showcase of OpenTelemetry integration in .NET applications with structured logging.
 
 - [auth-nodejs-mongo-sample](https://github.com/AmirDanesh/auth-nodejs-mongo-sample):
   A sample user authentication system using Node.js, Express and MongoDB.
-
-- [Telegram_bot_Akinator](https://github.com/AmirDanesh/Telegram_bot_Akinator):
-  A fun bot that plays the Akinator game on Telegram using Python.
 
 ---
 
@@ -33,7 +33,7 @@ Feel free to reach out if you're working on something interesting or just want t
 
 ---
 
-### 📫 Contact Me
+### 📢 Contact Me
 - 📧 Email: [amir77daneshvar@gmail.com](mailto:amir77daneshvar@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/amir-daneshvar](https://linkedin.com/in/amir-daneshvar)
 
